@@ -1,4 +1,4 @@
-## Olá tudo bem? 👋
+## Olá, tudo bem? 👋
 
 Me chamo Álefe, sou programador Front-End e apaixonado por criar experiências incríveis na web.
 
