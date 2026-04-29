@@ -53,7 +53,6 @@ Me chamo Álefe, sou Desenvolvedor Front-End e Analista de Qualidade de Software
 ---
 
 ## 📫 Contato
-- LinkedIn: SEU-LINK
-- Email: SEU-EMAIL
-
+- LinkedIn: www.linkedin.com/in/alefe-henrique
+- Email: alefsax7@outlook.com
  
