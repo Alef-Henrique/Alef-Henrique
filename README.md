@@ -42,7 +42,6 @@ Me chamo Álefe, sou Desenvolvedor Front-End e Analista de Qualidade de Software
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alef-Henrique&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Alef-Henrique&theme=tokyonight)
 
 
 ---
